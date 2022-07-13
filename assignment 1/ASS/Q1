@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intro</title>
+</head>
+
+<body>
+    <h3 style="color:red;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;">Name - SAMBIT DASH</h3>
+    <h3 style="color:green ;">E-Mail - sambit2002dash@gmail.com</h3>
+    <h3 style="color:blue ;">Phone - 7749927319</h3>
+    <img src="img.jpg" style="width:20%;">
+    <p style="background-color:pink ;">Myself <b>Sambit dash</b> .I am from Bhubaneswar. I am pursuing my<strong>B.Tech</strong> from <b>Silicon Institute Of Technology</b>.My branch is<i>Computer Engineering .</i> I am interested in playing cricket . One good quality which i think am passionate about my hobby .</p>
+
+</body>
+</html>
